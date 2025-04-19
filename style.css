@@ -17,6 +17,7 @@
   /* background-color: aqua; */
   /* background-image: url(./image/pink\ bg.avif); */
   background-image: url(./image/pink\ bg2.jpg);
+  background-repeat: no-repeat;
 
   width: 100%;
   /* height: 500px; */
@@ -67,16 +68,9 @@
 }
 .sec2-left {
   /* background-color: rgb(158, 81, 154); */
-  /* background-image: url(./image/w.ring1.jpg); */
-  /* background-image: url(./image/w.ring\ 2.jpg); */
-  /* background-image: url(./image/w.ring\ 3.jpg); */
-  /* background-image: url(./image/w.ring\ 4.webp); */
-  /* background-image: url(./image/w.ring\ 5.jpeg); */
-  /* background-image: url(./image/w.ring\ 6.jpeg); */
-  background-image: url(./image/w.ring\ 7.jpg);
- 
- 
-
+  /* background-image: url(./image/w.ring\ 7.jpg); */
+  background-image: url(./image/sec2-img1.jpg);
+ background-repeat: no-repeat;
   width: 48%;
   /* height:100%; */
   height: 340px;
@@ -90,7 +84,9 @@
 }
 .sec2-right {
   /* background-color: rgb(223, 38, 69); */
-  background-image: url(./image/w.ring\ 2.jpg);
+  /* background-image: url(./image/w.ring\ 2.jpg); */
+  background-image: url(./image/sec2-img2.jpg);
+  background-repeat: no-repeat;
 
   width: 47.5%;
   /* height: 100%; */
@@ -113,7 +109,10 @@
   /* background-color: rgb(253, 148, 109); */
   width: 100%;
   height: 280px;
-/* padding: 50px 400px; */
+/* padding: 50px 300px; */
+}
+.sec3-head{
+    
 }
 
 /*-------------------------------------------------------------- sec4------------------------------------- */
