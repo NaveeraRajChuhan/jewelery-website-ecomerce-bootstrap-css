@@ -149,6 +149,50 @@ padding-top: 100px;
   
   }
   
+
+/*-------------------------------------------------------------- sec7 ------------------------------------- */
+.sec7{
+  width: 100%;
+  margin-top: 100px;
+  margin-bottom: 200px;
+  height: 420px;
+  background-color: blue;
+}
+.sec7-head{
+  text-align: center;
+  padding-top: 200px;
+}
+
+/*-------------------------------------------------------------- sec7 ------------------------------------- */
+
+.sec8-right-top{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  
+  }
+
+
+  .sec8-right-bottom{
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+
+  .lc{
+height: 320px;
+  }
+
+
+  .lc-img{
+    height: 180px;
+    width: 200px;
+    object-fit: cover;
+    /* align-items: center; */
+      }
+    
   /*-------------------------------------------------------------- media------------------------------------- */
   /*-------------------------------------------------------------- media------------------------------------- */
   /*-------------------------------------------------------------- media------------------------------------- */
@@ -189,6 +233,20 @@ padding-top: 100px;
     /* justify-content: space-around; */
   }
 
+  .sec7{
+    width: 100%;
+    margin-top: 100px;
+    margin-bottom: 200px;
+    height: 320px;
+    background-color: blue;
+  }
+
+
+
+
+
+
+
 }
 
 
@@ -206,6 +264,15 @@ padding-top: 100px;
         height: 340px;
         /* width: 47%; */
       } 
+
+
+      .sec7{
+        width: 100%;
+        margin-top: 100px;
+        margin-bottom: 200px;
+        height: 280px;
+        background-color: blue;
+      }
 }
 
 
@@ -261,9 +328,19 @@ padding-top: 100px;
   }
 
 
+  .sec7{
+    width: 100%;
+    margin-top: 100px;
+    margin-bottom: 200px;
+    height: 200px;
+    background-color: blue;
+  }
 
-
-
+  .sec7-head{
+    text-align: center;
+    padding-top: 100px;
+    font-size: 15px;
+  }
 
 
 
