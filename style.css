@@ -407,6 +407,9 @@ object-fit: cover;
   height: auto;
   background-color: aqua;
   display: flex;
+  gap: 50px;
+  margin-top: 50px;
+  padding: 0px 120px;
 }
 
 .footer1-head2{
@@ -425,7 +428,24 @@ object-fit: cover;
   font-size: 22px;
 }
 .footer2-head2{
-  font-size: 12px;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+
+.footer3-head1{
+  font-size: 20px;
+
+}
+
+
+.footer4-head1{
+  font-size: 20px;
+
+}
+
+ul li{
+  list-style: none;
 }
 
   /*-------------------------------------------------------------- media------------------------------------- */
