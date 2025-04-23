@@ -58,6 +58,12 @@
   height: 45px;
   background-color: transparent;
 }
+.transparent-btn:hover{
+cursor: pointer;
+background-color: pink;
+/* border: 5px solid white; */
+}
+
 .sec1-right {
   /* background-color: pink; */
   width: 45%;
@@ -153,6 +159,7 @@ text-align: center;
     font-weight: 400;
 /* text-align: center; */
 padding-top: 100px;
+color: maroon;
 
 }
 .sec3-head2{
@@ -261,6 +268,11 @@ padding-top: 100px;
   /* position: absolute; */
   /* background-image: url(./image/ring-video.mp4); */
   background-color: blue;
+}
+.video{
+  width: 100%;
+  height: 420px;
+object-fit: cover;
 }
 .sec7-head{
   text-align: center;
