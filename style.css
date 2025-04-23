@@ -408,7 +408,10 @@ object-fit: cover;
 
 
 .sec9{
-  
+  width: 100%;
+  height: 80px;
+  background-color: aquamarine;
+  margin-top: 50px;
 }
 
 
