@@ -11,7 +11,7 @@ https://demo.xpeedstudio.com/marketov2/jewelry/# */
   height: 120px;
   /* background-color: blueviolet; */
   display: flex;
-  flex-wrap: ;
+  flex-wrap:wrap ;
   align-items: center;
   justify-content: space-between;
 }
