@@ -483,6 +483,7 @@ object-fit: cover;
   gap: 50px;
   margin-top: 50px;
   padding: 0px 120px;
+  margin-bottom: 30px;
 }
 
 .footer1-head1{
@@ -506,9 +507,16 @@ object-fit: cover;
     background-color: #EB3030;
     border: none;
     border-radius: 5px;
-    
+    color: white;
     
 }
+
+.footer1-btn:hover{
+  background-color: #0e0d0d;
+  cursor: pointer;
+
+}
+
 
 .footer2-head1{
   font-size: 22px;
