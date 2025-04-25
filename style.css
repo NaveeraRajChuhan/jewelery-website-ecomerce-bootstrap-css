@@ -6,8 +6,18 @@ https://demo.xpeedstudio.com/marketov2/jewelry/# */
   padding: 0;
 }
 
-
-
+.nav-top{
+  width: 100%;
+  height: 100px;
+  background-color: blueviolet;
+  display: flex;
+  align-items: center;
+}
+.input-placeholder{
+  width: 230px;
+  height: 40px;
+  /* align-items: center; */
+}
 
 
 .heart-icon{
