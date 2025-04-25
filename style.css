@@ -501,7 +501,8 @@ object-fit: cover;
 }
 
 .footer1-btn{
-  
+  width: 140px;
+    height: 45px;
 }
 
 .footer2-head1{
