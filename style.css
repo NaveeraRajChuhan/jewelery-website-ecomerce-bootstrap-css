@@ -1,7 +1,27 @@
+/* website-link
+https://demo.xpeedstudio.com/marketov2/jewelry/# */
+
 * {
   margin: 0;
   padding: 0;
 }
+
+
+
+
+
+.heart-icon{
+width: 30px;
+height: 20px;
+display: flex;
+align-items: center;
+padding: 0px 10px 0px 0px;
+}
+
+
+/*-------------------------------------------------------------- navbar------------------------------------- */
+
+
 
 .navbar {
   gap: 30px;
