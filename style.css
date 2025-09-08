@@ -471,7 +471,7 @@ object-fit: cover;
 .footer{
   width: 100%;
   height: auto;
-  /* background-color: aqua; */
+
   /* background-color: #282828; */
   display: flex;
   flex-wrap: wrap;
@@ -492,9 +492,9 @@ object-fit: cover;
 .footer1-head3{
   font-size: 23px;
 }
-.footer1-para{
+/* .footer1-para{
 
-}
+} */
 
 .footer1-btn{
   width: 140px;
